@@ -1,5 +1,5 @@
 
-# Hey I'm Enzo
+# Hey I'm Enzo Daniel
 
 Aspiring game developer focused on clean, scalable gameplay code in Unity (C#) and Unreal Engine (C++).
 
@@ -9,7 +9,7 @@ Aspiring game developer focused on clean, scalable gameplay code in Unity (C#) a
 
 
 ##  About Me
-- I'm a gem developer from the Basque Country, Spain
+- I'm a game developer from the Basque Country, Spain
 - I'm working on improving my programming skills focused on game development
 - Following a structured roadmap: advanced C#, modern C++, Unreal gameplay framework
 - Languages: Spanish (native), English (B2), Basque (B2)
